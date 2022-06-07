@@ -1,5 +1,5 @@
 # Overview
-Scripts visualizing all of my math classes.
+Scripts visualizing all of my math classes. Every script is at `VisualizeMyMath.ipynb`.
 
 # Examples
 
